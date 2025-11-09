@@ -1,7 +1,3 @@
-# Project URL
-
-https://www.suhanwijaya.com/ai-chatbot
-
 # Local development
 
 1. Create an OpenAI API key and assign it to the `OPENAI_API_KEY` environment variable.
@@ -152,3 +148,6 @@ The application uses OpenAI's GPT model for generating responses, with a `GenAIC
 - Add more structure to logging and error handling/reporting
 - Implement o11y tools (e.g., Datadog)
 - Monitor compute/storage metrics, logs, and traces
+
+
+@muhammadmuazzain07@gmail.com
